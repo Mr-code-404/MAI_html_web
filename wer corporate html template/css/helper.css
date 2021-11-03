@@ -1,0 +1,108 @@
+/*============================================================
+
+ * Template Name: Wer corporate html template 
+ * Author: ST-themes - (https://themeforest.net/user/st-themes)
+ * Version: 1.0
+ * Copyright 2020 ST-themes
+
+ ===============================================================*/
+.section_padd{
+	padding: 120px 0;
+}
+.title_1{
+	max-width: 515px;
+	font-size: 38px;
+	line-height: 49px;
+	font-weight: bold;
+	margin: 0 auto;
+	margin-top: -7px;
+	color: #0b1a39;
+}
+.title_2{
+	max-width: 600px;
+	line-height: 26px;
+	margin: 20px auto 60px auto;
+	color: #687c94;
+}
+.mb_10{
+	margin-bottom: 10px;
+}
+.mt_10{
+	margin-top: 10px;
+}
+.mr_10{
+	margin-right: 10px;
+}
+.mr_15{
+	margin-right: 15px;
+}
+.mb_15{
+	margin-bottom: 15px;
+}
+.mt_15{
+	margin-top: 15px;
+}
+.mb_20{
+	margin-bottom: 20px;
+}
+.mt_20{
+	margin-top: 20px;
+}
+.mb_25{
+	margin-bottom: 25px;
+}
+.mt_25{
+	margin-top: 25px;
+}
+.mb_30{
+	margin-bottom: 30px;
+}
+.mt_30{
+	margin-top: 30px;
+}
+.mb_35{
+	margin-bottom: 35px;
+}
+.mt_40{
+	margin-top: 40px;
+}
+.mb_40{
+	margin-bottom: 40px;
+}
+
+.mr_15{
+	margin-right: 15px;
+}
+.ml_15{
+	margin-left: 15px;
+}
+
+
+
+.blue_bg{
+	background-color: #0c5adb;
+	border-color: transparent !important;
+}
+.blue_text{
+	color: #0c5adb;
+}
+.button{
+	border-radius: 28px;
+	text-align: center;
+	border: 1px solid #fff;
+	line-height: 55px;
+	color: #fff;
+	display: inline-block;
+	font-size: 16px;
+	text-transform: capitalize;
+	transition: 0.3s;
+	width: 170px;
+	height: 55px;
+}
+
+.button:hover{
+	background-color: #0c5adb;
+	color: #fff;
+	border-color: transparent;
+	box-shadow: 0px 0px 10px 0px #0c5adb;
+}
