@@ -23,6 +23,29 @@
     <link href="css/helper.css" rel="stylesheet" type="text/css" />
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/responsive.css" rel="stylesheet" type="text/css" />
+    <style>
+        .roadmap_box ul li span{
+            display: block;
+            margin-left: 10px;
+
+        }
+        .roadmap_box ul li .small_span{
+            display: block;
+            margin-left: 25px;
+
+        }
+        .roadmap_box ul{
+            overflow: hidden;
+        }
+        .roadmap_box ul li{
+            float: left;
+            /* 文字左端靠齐 */
+            text-align: left;
+            /* 设置字间距 */
+            letter-spacing: 1px;
+            width: 50%;
+        }
+    </style>
 </head>
 <body id="top" class="inner-page" data-spy="scroll" data-target="#menu" data-offset="0">
     <!-- start preloader -->
@@ -213,6 +236,60 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="add_instructions" style="margin-top: 40px ;">
+                    <h2>Roadmap:</h2>
+                    <div class="roadmap_box" style=" position: relative; margin-bottom: 0px;">
+                        <ul >
+                            <li style="display: block; ">
+                                <div style="margin-top: 40px;">
+                                <h4 style="margin-bottom: 20px;">前端：</h4>
+                                <span>1、web基础：</span>
+                                <span>2、编程语言：</span> 
+                                <span class="small_span">JavaScript 基础</span>
+                                <span class="small_span">• CSS 基础</span>
+                                <span>3. 进阶（W3School, MDN)</span> 
+                                <span class="small_span">• HTML: 表格、表单、多媒体、访问性、语义化</span>
+                                <span class="small_span">• JavaScript: 作用域、闭包、对象原型</span>
+                                <span class="small_span">• 学习并了解 Bootstrap 和 jQuery，并用它来写个协会官网</span>
+                                <span class="small_span">• 使用浏览器的开发者工具来调试网站</span>
+                                </div>
+                            </li>
+                            <li style="display: block; ">
+                                <div style="margin-top: 40px;">
+                                <h4 style="margin-bottom: 20px;">现代性前端入门：</h4>
+                                <span>1、基础：</span>
+                                <span class="small_span">• Web技术</span>
+                                <span class="small_span">• 了解 ECMAScript，异步编程，Promise（阮一峰教程、MDN）</span>
+                                <span class="small_span">• 了解 SASS， SCSS， LESS（官方文档）</span>
+                                <span>2. 工具入门 （官方文档，百度）</span> 
+                                <span class="small_span">• NPM, Yarn, Webpack</span>
+                                <span class="small_span">• Gulp</span>
+                                <span>3. 框架入门</span> 
+                                <span class="small_span">• 从 jQuery 过渡到 Vue3（官方文档）</span>
+                                <span class="small_span">• 从 Bootstrap 过渡到 Antd（官方文档）</span>
+                                </div>
+                            </li>
+                            <li style="display: block; ">
+                                <div style="margin-top: 40px;">
+                                <h4 style="margin-bottom: 20px;">资源推荐：（按需使用即可）：</h4>
+                                <span>1. 大部分内容： <a href=" https://www.bilibili.com/video/BV1Bb411v7w8"> https://www.bilibili.com/video/BV1Bb411v7w8</a></span>
+                                <span>2. MDN权威入门: <a href="https://developer.mozilla.org/zh-CN/docs/Learn">https://developer.mozilla.org/zh-CN/docs/Learn</a></span> 
+                                <span>3. 作品参考（功能、UI）: <a href="https://codepen.io/">https://codepen.io/</a></span> 
+                                <span>4. 阮一峰的ES6教程： <a href="https://es6.ruanyifeng.com/">https://es6.ruanyifeng.com/</a></span> 
+                                <span>5. NPM, Webpack, Vue3: <a href="https://www.bilibili.com/video/BV1Pz4y1S7Uv">https://www.bilibili.com/video/BV1Pz4y1S7Uv</a></span> 
+                                </div>
+                            </li>
+                            
+
+                        </ul>   
+                        <div class="send_word" style="margin: 50px auto 0px; padding: auto; text-align: center;">
+                            学习需要徐徐渐进，优秀的作品就是对自己实力最好的证明！
+                        </div> <div class="send_word" style="margin: 0px auto 0px; padding: auto; text-align: center;">
+                            我们在移动应用创新协会等着你！
+                        </div> 
+                    </div>
+                </div>
             </div>   
         </div>
         <!-- end service wrapper -->
@@ -263,7 +340,7 @@
 
     <!-- start footer -->
     <footer>
-        <div class="footer_top section_padd" id="contact">
+        <div class="footer_top section_padd" id="contact" style="margin-top: -40px;">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-lg-5 col-xl-4">
