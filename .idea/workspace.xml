@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8286cbf-9a19-433e-bb9e-bc4f263cdff3" name="变更" comment="项目初次上线">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +62,7 @@
       <workItem from="1636196235016" duration="50000" />
       <workItem from="1636196395128" duration="153000" />
       <workItem from="1636196694818" duration="718000" />
+      <workItem from="1636375723431" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="Delete test">
       <created>1636180662214</created>
