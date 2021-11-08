@@ -30,8 +30,8 @@ jobs:
         with:
           # Command to execute on the remote server.
           command: |
-            cd /var/www/html \
-            git stash \
+            cd /var/www/html
+            git stash
             git pull
           # Hostname or IP address of the server.
           host: ${{ secrets.DEPLOY_HOST }}
