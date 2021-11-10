@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8286cbf-9a19-433e-bb9e-bc4f263cdff3" name="变更" comment="项目初次上线">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="e8286cbf-9a19-433e-bb9e-bc4f263cdff3" name="变更" comment="主页添加报名按钮">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
       <workItem from="1636196235016" duration="50000" />
       <workItem from="1636196395128" duration="153000" />
       <workItem from="1636196694818" duration="718000" />
-      <workItem from="1636375723431" duration="303000" />
+      <workItem from="1636375723431" duration="948000" />
     </task>
     <task id="LOCAL-00001" summary="Delete test">
       <created>1636180662214</created>
@@ -99,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636197253987</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="主页添加报名按钮">
+      <created>1636376055157</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636376055157</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +128,7 @@
     <MESSAGE value="Delete test" />
     <MESSAGE value="初版上线" />
     <MESSAGE value="项目初次上线" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目初次上线" />
+    <MESSAGE value="主页添加报名按钮" />
+    <option name="LAST_COMMIT_MESSAGE" value="主页添加报名按钮" />
   </component>
 </project>
