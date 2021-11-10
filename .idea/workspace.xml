@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8286cbf-9a19-433e-bb9e-bc4f263cdff3" name="变更" comment="修改协会字样，网站审批" />
+    <list default="true" id="e8286cbf-9a19-433e-bb9e-bc4f263cdff3" name="变更" comment="修改协会字样，网站审批">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +64,7 @@
       <workItem from="1636196395128" duration="153000" />
       <workItem from="1636196694818" duration="718000" />
       <workItem from="1636375723431" duration="948000" />
-      <workItem from="1636516685197" duration="322000" />
+      <workItem from="1636516685197" duration="1403000" />
     </task>
     <task id="LOCAL-00001" summary="Delete test">
       <created>1636180662214</created>
@@ -113,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636516898708</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="修改协会字样，网站审批">
+      <created>1636517066830</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636517066830</updated>
+    </task>
+    <task id="LOCAL-00009" summary="修改协会字样，网站审批">
+      <created>1636517135352</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636517135352</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
