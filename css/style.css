@@ -283,6 +283,7 @@ header .logo p {
 	line-height: 93px;
 	font-weight: bold;
 	margin-top: -12px;
+	letter-spacing: 10px;
 }
 
 .home_wrapper .sub_heading {
@@ -1264,6 +1265,7 @@ footer .social_icons li a {
 	font-weight: bold;
 	margin-top: -10px;
 	max-width: 100%;
+	letter-spacing: 10px;
 }
 
 .inner-page .home_wrapper p {

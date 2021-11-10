@@ -1,0 +1,36 @@
+.add_instructions{
+    margin-top: 40px ;            
+}
+.roadmap_box{
+    position: relative; 
+    margin-bottom: 0px;
+}
+
+.roadmap_box ul{
+    overflow: hidden;
+}
+.roadmap_box ul li{
+    float: left;
+    /* 文字左端靠齐 */
+    text-align: left;
+    /* 设置字间距 */
+    letter-spacing: 1px;
+    width: 50%;
+    display: block; 
+}
+.roadmap_box ul li div{
+    margin-top: 40px;
+}
+.roadmap_box ul li h4{
+    margin-bottom: 20px;
+}
+.roadmap_box ul li span{
+    display: block;
+    margin-left: 10px;
+
+}
+.roadmap_box ul li .small_span{
+    display: block;
+    margin-left: 25px;
+
+}

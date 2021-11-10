@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- title -->
-    <title>FJUT MAI</title>
+    <title>前端路线整合 | FJUT MAI</title>
 
     <!-- favicon -->
     <link href="img/icon.png" type="image/png" rel="icon">
@@ -23,28 +23,9 @@
     <link href="css/helper.css" rel="stylesheet" type="text/css" />
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/responsive.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="/css/add_instructions.css">
     <style>
-        .roadmap_box ul li span{
-            display: block;
-            margin-left: 10px;
-
-        }
-        .roadmap_box ul li .small_span{
-            display: block;
-            margin-left: 25px;
-
-        }
-        .roadmap_box ul{
-            overflow: hidden;
-        }
-        .roadmap_box ul li{
-            float: left;
-            /* 文字左端靠齐 */
-            text-align: left;
-            /* 设置字间距 */
-            letter-spacing: 1px;
-            width: 50%;
-        }
+      
     </style>
 </head>
 <body id="top" class="inner-page" data-spy="scroll" data-target="#menu" data-offset="0">
@@ -132,9 +113,10 @@
         <div class="home_wrapper">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-12 text-center"  style="    letter-spacing: 10px;">
+                    <div class="col-12 text-center"  style="  letter-spacing: 10px;">
                         <h1>前端路线整合</h1>
-                        <p>—— 移动应用创新<团队> ——</p>
+                        <!-- 这里直接使用<>会让html默认为是标签的意思，用字符实体来表示会好一些 -->
+                        <p>—— 移动应用创新&lt;团队&gt; ——</p>
                     </div>
                 </div>
             </div>
@@ -215,7 +197,8 @@
                                     </div>
                                     <div class="service_details" style="height: 200px;">
                                         <h4>Vue3 Antd</h4>
-                                        <p>Lorem ipsum dolor s consectetur adipisicing elit, sed</p>
+                                        <p>Vue是一个用于创建用户界面的开源JavaScript框架，也是一个创建单页应用的Web应用框架，能更好地组织与简化Web开发。</p>
+                                        <p>AntD简单来说就是是一款企业级的UI设计语言和React UI类库</p>
                                     </div>
                                 </div>
                             </div>
@@ -226,7 +209,7 @@
                                     </div>
                                     <div class="service_details" style="height: 200px;">
                                         <h4>NPM、Yarn等工具使用</h4>
-                                        <p>Lorem ipsum dolor s consectetur adipisicing elit, sed</p>
+                                        <p>NPM是随同NodeJS一起安装的包管理工具，能解决NodeJS代码部署上的很多问题(Node.js 就是运行在服务端的 JavaScript)</p>
                                     </div>
                                 </div>
                             </div>
@@ -237,13 +220,13 @@
                     </div>
                 </div>
 
-                <div class="add_instructions" style="margin-top: 40px ;">
+                <div class="add_instructions">
                     <h2>Roadmap:</h2>
-                    <div class="roadmap_box" style=" position: relative; margin-bottom: 0px;">
+                    <div class="roadmap_box" >
                         <ul >
-                            <li style="display: block; ">
-                                <div style="margin-top: 40px;">
-                                <h4 style="margin-bottom: 20px;">前端：</h4>
+                            <li >
+                                <div >
+                                <h4 >前端：</h4>
                                 <span>1、web基础：</span>
                                 <span>2、编程语言：</span> 
                                 <span class="small_span">JavaScript 基础</span>
@@ -255,9 +238,9 @@
                                 <span class="small_span">• 使用浏览器的开发者工具来调试网站</span>
                                 </div>
                             </li>
-                            <li style="display: block; ">
-                                <div style="margin-top: 40px;">
-                                <h4 style="margin-bottom: 20px;">现代性前端入门：</h4>
+                            <li>
+                                <div>
+                                <h4 >现代性前端入门：</h4>
                                 <span>1、基础：</span>
                                 <span class="small_span">• Web技术</span>
                                 <span class="small_span">• 了解 ECMAScript，异步编程，Promise（阮一峰教程、MDN）</span>
@@ -270,9 +253,9 @@
                                 <span class="small_span">• 从 Bootstrap 过渡到 Antd（官方文档）</span>
                                 </div>
                             </li>
-                            <li style="display: block; ">
-                                <div style="margin-top: 40px;">
-                                <h4 style="margin-bottom: 20px;">资源推荐：（按需使用即可）：</h4>
+                            <li>
+                                <div >
+                                <h4 >资源推荐：（按需使用即可）：</h4>
                                 <span>1. 大部分内容： <a href=" https://www.bilibili.com/video/BV1Bb411v7w8"> https://www.bilibili.com/video/BV1Bb411v7w8</a></span>
                                 <span>2. MDN权威入门: <a href="https://developer.mozilla.org/zh-CN/docs/Learn">https://developer.mozilla.org/zh-CN/docs/Learn</a></span> 
                                 <span>3. 作品参考（功能、UI）: <a href="https://codepen.io/">https://codepen.io/</a></span> 
