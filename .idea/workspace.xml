@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8286cbf-9a19-433e-bb9e-bc4f263cdff3" name="变更" comment="主页添加报名按钮">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e8286cbf-9a19-433e-bb9e-bc4f263cdff3" name="变更" comment="修改协会字样，网站审批" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +20,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -63,6 +62,7 @@
       <workItem from="1636196395128" duration="153000" />
       <workItem from="1636196694818" duration="718000" />
       <workItem from="1636375723431" duration="948000" />
+      <workItem from="1636516685197" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="Delete test">
       <created>1636180662214</created>
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636376055157</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改协会字样，网站审批">
+      <created>1636516898708</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636516898708</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +136,7 @@
     <MESSAGE value="初版上线" />
     <MESSAGE value="项目初次上线" />
     <MESSAGE value="主页添加报名按钮" />
-    <option name="LAST_COMMIT_MESSAGE" value="主页添加报名按钮" />
+    <MESSAGE value="修改协会字样，网站审批" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改协会字样，网站审批" />
   </component>
 </project>
