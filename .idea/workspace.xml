@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8286cbf-9a19-433e-bb9e-bc4f263cdff3" name="变更" comment="修改关闭主页！主页切换到学习分享页面">
+    <list default="true" id="e8286cbf-9a19-433e-bb9e-bc4f263cdff3" name="变更" comment="正式上线，修改协&lt;团队&gt;字样">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog_grid_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_grid_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +75,8 @@
       <workItem from="1636531436824" duration="352000" />
       <workItem from="1636628346297" duration="43000" />
       <workItem from="1637150163470" duration="754000" />
+      <workItem from="1637299634350" duration="229000" />
+      <workItem from="1637404978610" duration="4161000" />
     </task>
     <task id="LOCAL-00001" summary="Delete test">
       <created>1636180662214</created>
@@ -139,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637150384459</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="正式上线，修改协&lt;团队&gt;字样">
+      <created>1637299856781</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1637299856781</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +180,7 @@
     <MESSAGE value="主页添加报名按钮" />
     <MESSAGE value="修改协会字样，网站审批" />
     <MESSAGE value="修改关闭主页！主页切换到学习分享页面" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改关闭主页！主页切换到学习分享页面" />
+    <MESSAGE value="正式上线，修改协&lt;团队&gt;字样" />
+    <option name="LAST_COMMIT_MESSAGE" value="正式上线，修改协&lt;团队&gt;字样" />
   </component>
 </project>

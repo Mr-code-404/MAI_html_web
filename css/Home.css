@@ -313,11 +313,7 @@
   margin: 20px 0 0;
 }
 
-.u-section-3 .u-image-1 {
-  min-height: 635px;
-  background-image: url("images/pexels-photo-2453489.jpeg");
-  background-position: 50% 50%;
-}
+
 
 .u-section-3 .u-container-layout-2 {
   padding: 30px;
@@ -543,11 +539,7 @@
   margin-left: auto;
 }
 
-.u-section-5 .u-image-1 {
-  min-height: 635px;
-  background-image: url("images/grayscale-photography-of-woman-wearing-coat-and-fedora-hat-2947337.jpg");
-  background-position: 50% 50%;
-}
+
 
 .u-section-5 .u-container-layout-1 {
   padding: 30px;
@@ -603,15 +595,8 @@
     margin-right: 235px;
   }
 
-  .u-section-5 .u-text-2 {
-    margin-left: undefined;
-  }
 
-  .u-section-5 .u-text-3 {
-    margin-left: undefined;
-    margin-right: 1px;
-  }
-}
+
 
 @media (max-width: 991px) {
   .u-section-5 .u-sheet-1 {
@@ -666,14 +651,6 @@
     padding-right: 10px;
   }
 
-  .u-section-5 .u-text-2 {
-    margin-left: undefined;
-  }
-
-  .u-section-5 .u-text-3 {
-    margin-left: undefined;
-  }
-}
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
@@ -851,13 +828,7 @@
   padding: 30px;
 }
 
-.u-section-7 .u-image-1 {
-  width: 110px;
-  height: 110px;
-  background-image: url("images/pexels-photo-4576085.jpeg");
-  background-position: 50% 50%;
-  margin: 0 auto 0 0;
-}
+
 
 .u-section-7 .u-text-3 {
   text-transform: uppercase;
@@ -877,13 +848,7 @@
   padding: 30px;
 }
 
-.u-section-7 .u-image-2 {
-  width: 110px;
-  height: 110px;
-  background-image: url("images/pexels-photo-5141074.jpeg");
-  background-position: 50% 50%;
-  margin: 0 auto 0 0;
-}
+
 
 .u-section-7 .u-text-5 {
   text-transform: uppercase;
@@ -903,13 +868,6 @@
   padding: 30px;
 }
 
-.u-section-7 .u-image-3 {
-  width: 110px;
-  height: 110px;
-  background-image: url("images/pexels-photo-2989724.jpeg");
-  background-position: 50% 50%;
-  margin: 0 auto 0 0;
-}
 
 .u-section-7 .u-text-7 {
   text-transform: uppercase;
