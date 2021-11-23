@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8286cbf-9a19-433e-bb9e-bc4f263cdff3" name="变更" comment="正式上线，修改协&lt;团队&gt;字样">
+    <list default="true" id="e8286cbf-9a19-433e-bb9e-bc4f263cdff3" name="变更" comment="正式上线，修改协&lt;团队&gt;字样,添加ICP备案信息">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_grid_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_grid_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/all.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -49,6 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -76,7 +78,9 @@
       <workItem from="1636628346297" duration="43000" />
       <workItem from="1637150163470" duration="754000" />
       <workItem from="1637299634350" duration="229000" />
-      <workItem from="1637404978610" duration="4161000" />
+      <workItem from="1637404978610" duration="4471000" />
+      <workItem from="1637502862818" duration="45000" />
+      <workItem from="1637505103418" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="Delete test">
       <created>1636180662214</created>
@@ -155,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637299856781</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="正式上线，修改协&lt;团队&gt;字样,添加ICP备案信息">
+      <created>1637409482751</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1637409482751</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +192,7 @@
     <MESSAGE value="修改协会字样，网站审批" />
     <MESSAGE value="修改关闭主页！主页切换到学习分享页面" />
     <MESSAGE value="正式上线，修改协&lt;团队&gt;字样" />
-    <option name="LAST_COMMIT_MESSAGE" value="正式上线，修改协&lt;团队&gt;字样" />
+    <MESSAGE value="正式上线，修改协&lt;团队&gt;字样,添加ICP备案信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="正式上线，修改协&lt;团队&gt;字样,添加ICP备案信息" />
   </component>
 </project>
